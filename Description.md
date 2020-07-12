@@ -1,22 +1,6 @@
 # DataSets
 Table of orbital elements for all near-Earth asteroids, 23072 objects: asteroids and NEOs. 
 
-<style>
-	.demo {
-		border:1px solid #C0C0C0;
-		border-collapse:collapse;
-		padding:5px;
-	}
-	.demo th {
-		border:1px solid #C0C0C0;
-		padding:5px;
-		background:#F0F0F0;
-	}
-	.demo td {
-		border:1px solid #C0C0C0;
-		padding:5px;
-	}
-</style>
 <table class="demo">
 	<caption>Description</caption>
 	<thead>
